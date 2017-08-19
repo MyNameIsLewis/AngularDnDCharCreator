@@ -1,0 +1,6 @@
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\bin\DnDCharCreatorAng.dll.config
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\bin\DnDCharCreatorAng.dll
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\bin\DnDCharCreatorAng.pdb
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\obj\Debug\DnDCharCreatorAng.csprojResolveAssemblyReference.cache
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\obj\Debug\DnDCharCreatorAng.dll
+C:\Code\AngularDnDCharCreator\DnDCharCreatorAng\obj\Debug\DnDCharCreatorAng.pdb
